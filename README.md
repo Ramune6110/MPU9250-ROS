@@ -54,5 +54,4 @@ roslaunch MPU9250 imu_with_madgwick.launch
 
 
 ## Movie
-[rviz movie](https://user-images.githubusercontent.com/52307432/108654859-e3fd0780-750c-11eb-9b66-108e4c4677b3.mp4)
-
+[rviz movie](https://user-images.githubusercontent.com/52307432/108673874-c38e7680-7527-11eb-8763-f9938b3f7b3e.mp4)
