@@ -12,6 +12,7 @@ roscore
 ```
 sudo chmod 666 /dev/ttyACM0
 ```
+Write mpu9250.ino to the Arduino
 ```
 rosrun rosserial_python serial_node.py /dev/ttyACM0
 ```
@@ -37,6 +38,7 @@ roscore
 ```
 sudo chmod 666 /dev/ttyACM0
 ```
+Write mpu9250_with_madgwick.ino to the Arduino
 ```
 rosrun rosserial_python serial_node.py /dev/ttyACM0
 ```
