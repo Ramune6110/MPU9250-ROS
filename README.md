@@ -22,4 +22,5 @@ source devel/setup.bash
 ```
 roslaunch MPU9250 imu.launch
 ```
+## Result
 
