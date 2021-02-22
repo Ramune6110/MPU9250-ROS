@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>MPU9250-ROS</name>
+  <name>MPU9250</name>
   <version>0.0.0</version>
-  <description>The MPU9250-ROS package</description>
+  <description>The MPU9250 package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
