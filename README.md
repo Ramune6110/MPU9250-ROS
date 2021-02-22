@@ -1,8 +1,7 @@
 # MPU9250-ROS
 
 ## MPU9250 with Arduino
-Use the following libraries  
-https://asukiaaa.blogspot.com/2017/07/arduinompu9250.html
+[Use the following libraries](https://github.com/asukiaaa/MPU9250_asukiaaa)
 
 ## Execution method
 ### STEP1
